@@ -26,6 +26,7 @@ project 2: Penguin Company
 This project involves implementing three packages: "tree," "penguinDate," and "company." In the "tree" package, a generic tree data structure is created, along with methods for node insertion, leaf determination, tree size calculation, node removal, and tree traversal. The "penguinDate" package simulates penguins going on dates based on their genealogy tree distance. The "company" package models a company structure using generic data structures, including methods for adding, firing, and finding employees within the company. A CompanySimulation class handles input and performs corresponding operations for the company simulation.
 ____________________________________________________________________________________________________________________
 project 3: Spotij
+
 SpotiJy is a simple song manager program that allows users to store and manage data about songs, albums, and artists. The project consists of four classes - Song, Album, Artist, and SpotiJy. Each class handles specific data management tasks.
 
 In the Song class, users can create and manage song objects with attributes such as title, release year, duration, and likes. The class provides methods to change the duration, like, and unlike songs. Songs can also be compared based on their attributes.
