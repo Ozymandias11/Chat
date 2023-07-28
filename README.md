@@ -40,6 +40,10 @@ ________________________________________________________________________________
 project 4: Cover the tiles (mini-game)
 
 In this variant of the two-person dice game called "Cover The Tiles," there are ten numbered tiles from 1 to 10, initially all open. Two players compete in each round. Each player rolls two dice and covers two tiles matching the sum of the dice roll. If no valid option is available, the player's account is credited with the total of all open boxes. The game consists of 10 rounds, and the player with the smallest account balance wins. The player who closes the final remaining boxes in a round wins instantly, regardless of the account values earned.
+______________________________________________________________________________________________________________________
+Project 5: Labyrinth
+
+Pingu Labyrinth is a Java program designed to rescue distressed penguins trapped in an unsolvable maze. The objective is to navigate through the labyrinth, represented as a 2-dimensional array, and locate ailing penguins to feed them. As the heroic penguin rescuer, you start from a designated point and can move in four directions. The challenge lies in efficiently searching for penguins while ensuring the distance from the starting point does not exceed a given maximum. The project also includes graphical visualization to help track progress.
 
              
  
