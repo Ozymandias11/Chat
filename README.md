@@ -36,6 +36,10 @@ The Album class stores a collection of songs and provides methods to add songs, 
 The Artist class represents individual artists with attributes like first name, last name, birth year, albums, and singles. The class offers methods to find the most and least liked songs, total likes, and compare artists.
 
 SpotiJy is the main class that manages a collection of artists. It provides methods to add artists, retrieve the top trending artist, album, and song based on the total number of likes from all songs across all albums and singles.
+_____________________________________________________________________________________________________________________
+project 4: Cover the tiles (mini-game)
+
+In this variant of the two-person dice game called "Cover The Tiles," there are ten numbered tiles from 1 to 10, initially all open. Two players compete in each round. Each player rolls two dice and covers two tiles matching the sum of the dice roll. If no valid option is available, the player's account is credited with the total of all open boxes. The game consists of 10 rounds, and the player with the smallest account balance wins. The player who closes the final remaining boxes in a round wins instantly, regardless of the account values earned.
 
              
  
